@@ -10,4 +10,4 @@ def ctof(temp)
     temp = (temp * 1.8) + 32
 end
 
-main if __FILE__ ==$PROGRAM_NAME
+# main if __FILE__ ==$PROGRAM_NAME
